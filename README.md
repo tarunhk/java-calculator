@@ -29,6 +29,7 @@ It demonstrates core Java concepts such as:
 ## ▶️ How to Run the Program
 1.Compile the program:
   - javac Calculator.java
+
 2.Run the program:
   - java Calculator
 
